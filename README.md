@@ -26,6 +26,6 @@ This project connects an ESP32 microcontroller to Wi-Fi and reads real-time temp
 ### Channel Page
 ![Serial Monitor] <img width="1372" height="669" alt="Channel_Page" src="https://github.com/user-attachments/assets/299d4e8b-f9b1-4a04-be85-c77c7bfcc334" />
 
-###Wiring Screenshot
+### Wiring Screenshot
 ![Picture of wiring] <img width="433" height="593" alt="Wiring" src="https://github.com/user-attachments/assets/3b238ac1-7423-4055-9c47-ddfa56b12d31" />
 
