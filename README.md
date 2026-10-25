@@ -20,11 +20,11 @@ This project connects an ESP32 microcontroller to Wi-Fi and reads real-time temp
 
 ## Screenshots
 ### ThingSpeak Dashboard & Live Charts
-![ThingSpeak Dashboard]<img width="1412" height="815" alt="Temperature+Humidity" src="https://github.com/user-attachments/assets/e981847c-d181-4467-a2ff-bb77cbe668fa" />
+<img width="1412" height="815" alt="Temperature+Humidity" src="https://github.com/user-attachments/assets/e981847c-d181-4467-a2ff-bb77cbe668fa" />
 
 
 ### Channel Page
-![Serial Monitor] <img width="1372" height="669" alt="Channel_Page" src="https://github.com/user-attachments/assets/299d4e8b-f9b1-4a04-be85-c77c7bfcc334" />
+<img width="1372" height="669" alt="Channel_Page" src="https://github.com/user-attachments/assets/299d4e8b-f9b1-4a04-be85-c77c7bfcc334" />
 
 ### Wiring Screenshot
 <img width="433" height="593" alt="Wiring" src="https://github.com/user-attachments/assets/3b238ac1-7423-4055-9c47-ddfa56b12d31" />
