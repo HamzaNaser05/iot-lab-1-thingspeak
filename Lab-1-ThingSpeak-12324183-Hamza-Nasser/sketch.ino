@@ -60,8 +60,8 @@ void loop() {
   Serial.print("Temperature   : "); Serial.print(temperature, 1); Serial.println(" °C");
   Serial.print("Humidity      : "); Serial.print(humidity, 1); Serial.println(" %");
 
-  ThingSpeak.setField(1, 23);            // Field 1: Temperature
-  ThingSpeak.setField(2, 41.83f);               // Field 2: Humidity
+  ThingSpeak.setField(1, temperature);            // Field 1: Temperature
+  ThingSpeak.setField(2, humidity);               // Field 2: Humidity
   ThingSpeak.setStatus(universityID);             // Requirement #4 in HTTP request
 
   int httpCode = ThingSpeak.writeFields(channelNumber, apiKey);
