@@ -1,6 +1,6 @@
 #include <WiFi.h>
 #include "ThingSpeak.h"
-#include <DHT.h>
+#include "DHT.h"
 
 const char* studentName  = "Hamza Nasser";
 const char* universityID = "12324183";
@@ -12,7 +12,7 @@ const unsigned long channelNumber = 3549775;
 const char* apiKey = "DVJ7EF6NDWZ1FUT2";
 
 #define DHTPIN 15       
-#define DHTTYPE DHT22   /
+#define DHTTYPE DHT22   
 
 DHT dht(DHTPIN, DHTTYPE);
 WiFiClient client;
