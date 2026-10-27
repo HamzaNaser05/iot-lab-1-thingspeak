@@ -19,6 +19,10 @@ This project connects an ESP32 microcontroller to Wi-Fi and reads real-time temp
 | DATA / SDA | GPIO 15 |
 
 ## Screenshots
+
+### Live console Readings
+<img width="928" height="954" alt="image" src="https://github.com/user-attachments/assets/d0f97371-0b42-47e8-be96-b2c4b4da873e" />
+
 ### ThingSpeak Dashboard & Live Charts
 <img width="1412" height="815" alt="Temperature+Humidity" src="https://github.com/user-attachments/assets/e981847c-d181-4467-a2ff-bb77cbe668fa" />
 
