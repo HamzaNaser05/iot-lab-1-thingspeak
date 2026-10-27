@@ -39,8 +39,6 @@ void setup() {
     Serial.print(".");
   }
   Serial.println("\n[Wi-Fi] Connected successfully!");
-  Serial.print("[Wi-Fi] IP Address: ");
-  Serial.println(WiFi.localIP());
 
   ThingSpeak.begin(client);
 }
